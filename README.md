@@ -1,2 +1,2 @@
 # learn-rust
-Some mini projects I have in my Rust learning journey. 
+Some mini projects I made during my Rust learning journey. 
